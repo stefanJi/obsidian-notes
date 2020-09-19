@@ -1,1 +1,1 @@
-在 [[玩转 Obsidian | 打造知识循环利器 - 少数派]] [玩转 Obsidian | 打造知识循环利器 - 少数派](https://sspai.com/post/62414) 中了解到了 Obsidian 适合用来书写彼此存在联系笔记。于是今天开始使用 Obsidian。这个库我取名 *JY知识循环*，将会通过 git 做管理，并 host 到码云上。
+在 [[玩转 Obsidian | 打造知识循环利器 - 少数派]] [玩转 Obsidian | 打造知识循环利器 - 少数派](https://sspai.com/post/62414) 中了解到了 Obsidian 适合用来书写彼此存在联系笔记。于是今天开始使用 Obsidian。这个库我取名 *JY知识循环*，将会通过 git 做管理。
