@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f83e4234de6eee43",
+        "id": "c4e52c2074bb25de",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "开始使用 Obsidian.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8908151d6cdcdc4c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "开始使用 Obsidian.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -74,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "开始使用 Obsidian.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -87,7 +71,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Android/Android 项目依赖管理.md",
+    "Android/multi-project.md",
+    "multi-project.md",
+    "Android 项目依赖管理.md",
+    "Untitled.md",
     "开始使用 Obsidian.md",
-    "Untitled.md"
+    "玩转 Obsidian.md",
+    "玩转 Obsidian 打造知识循环利器 - 少数派.md",
+    "abc.md"
   ]
 }

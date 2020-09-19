@@ -1,0 +1,1 @@
+在一个现代 Android 项目中，我们一般会存在多个模块，这种多模块的项目其实被 gradle 称作 [[Android/multi-project | mutil-project]]。
