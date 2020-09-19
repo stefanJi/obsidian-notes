@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "2fe33ef5a8d2a75d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f83e4234de6eee43",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "开始使用 Obsidian.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8908151d6cdcdc4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "开始使用 Obsidian.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4565bcf265733955",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bc89ab656a34379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58717335cb3c62f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "368637169d176336",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217
+  },
+  "right": {
+    "id": "6aa6349d7897ef62",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bfaad0e94614659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e4a970505155e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "开始使用 Obsidian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "开始使用 Obsidian.md",
+    "Untitled.md"
+  ]
+}
